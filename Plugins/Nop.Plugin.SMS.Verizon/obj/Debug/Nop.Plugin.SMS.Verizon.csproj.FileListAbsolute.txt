@@ -1,0 +1,12 @@
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\SMS.Verizon\Description.txt
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
+C:\Projects\Nop\src\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
+C:\Projects\Nop\src\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb
+C:\Projects\Nop\src\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.csprojResolveAssemblyReference.cache
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\SMS.Verizon\Description.txt
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.csprojResolveAssemblyReference.cache
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb

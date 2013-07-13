@@ -1,0 +1,10 @@
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb

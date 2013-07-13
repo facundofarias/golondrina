@@ -1,0 +1,12 @@
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Tax.FixedRate\Description.txt
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.pdb
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.dll
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.pdb
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Tax.FixedRate\Description.txt
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.pdb
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.csprojResolveAssemblyReference.cache
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.dll
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.pdb

@@ -1,0 +1,10 @@
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

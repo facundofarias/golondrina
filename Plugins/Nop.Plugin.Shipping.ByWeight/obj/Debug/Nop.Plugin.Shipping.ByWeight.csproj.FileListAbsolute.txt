@@ -1,0 +1,12 @@
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
+C:\Projects\Nop\src\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
