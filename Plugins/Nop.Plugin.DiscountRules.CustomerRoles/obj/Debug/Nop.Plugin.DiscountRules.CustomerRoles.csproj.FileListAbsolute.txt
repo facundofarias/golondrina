@@ -4,9 +4,3 @@ C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop
 C:\Projects\Nop\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache
 C:\Projects\Nop\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.dll
 C:\Projects\Nop\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.pdb
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Description.txt
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.dll
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.pdb

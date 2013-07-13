@@ -5,10 +5,3 @@ C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipp
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojResolveAssemblyReference.cache
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.Fedex\Description.txt
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll.config
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojResolveAssemblyReference.cache
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb

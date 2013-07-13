@@ -4,9 +4,3 @@ C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb

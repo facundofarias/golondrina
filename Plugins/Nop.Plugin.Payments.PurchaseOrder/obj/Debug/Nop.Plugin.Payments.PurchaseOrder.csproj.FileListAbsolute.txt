@@ -4,9 +4,3 @@ C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plug
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

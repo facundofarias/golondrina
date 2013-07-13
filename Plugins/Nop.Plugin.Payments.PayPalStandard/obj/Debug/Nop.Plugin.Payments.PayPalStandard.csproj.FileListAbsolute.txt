@@ -3,8 +3,3 @@ C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plu
 C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
-C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
-C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb
