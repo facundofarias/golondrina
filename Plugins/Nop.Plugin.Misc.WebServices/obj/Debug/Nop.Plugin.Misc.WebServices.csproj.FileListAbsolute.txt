@@ -6,3 +6,11 @@ C:\Projects\Nop\src\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Mis
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb
 C:\Projects\Nop\src\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.csprojResolveAssemblyReference.cache
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+C:\Projects\Golondrina\github\golondrina\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.csprojResolveAssemblyReference.cache
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+C:\Projects\Golondrina\github\golondrina\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb
