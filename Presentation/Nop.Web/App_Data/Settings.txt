@@ -1,2 +1,2 @@
-DataProvider: sqlce
-DataConnectionString: Data Source=|DataDirectory|\Nop.Db.sdf;Persist Security Info=False
+DataProvider: sqlserver
+DataConnectionString: Server=2cab8cbd-f763-4dbb-8328-a1fa0136af7d.sqlserver.sequelizer.com;Database=db2cab8cbdf7634dbb8328a1fa0136af7d;User ID=jdackcwhpezesgdw;Password=XPBHMdbLkseFqhQqEg7JBR5gBhsFzrkFpFFspNgsgw3gbuaBDNMKrFyfSufESCm3;
