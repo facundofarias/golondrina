@@ -141,23 +141,5 @@ namespace Nop.Services.Tests.Tax
             _taxService.GetProductPrice(product, 0, 1000M, false, customer, false, out taxRate).ShouldEqual(1000);
         }
 
-        [Test]
-        public void Can_do_VAT_check()
-        {
-            //remove? this method requires Internet access
-
-            string name, address;
-            Exception exception;
-
-            VatNumberStatus vatNumberStatus1 = _taxService.DoVatCheck("GB", "523 2392 69",
-                out name, out address, out exception);
-            vatNumberStatus1.ShouldEqual(VatNumberStatus.Valid);
-            exception.ShouldBeNull();
-
-            VatNumberStatus vatNumberStatus2 = _taxService.DoVatCheck("GB", "000 0000 00",
-                out name, out address, out exception);
-            vatNumberStatus2.ShouldEqual(VatNumberStatus.Invalid);
-            exception.ShouldBeNull();
-        }
     }
 }
