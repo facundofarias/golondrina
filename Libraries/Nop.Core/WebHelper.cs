@@ -91,9 +91,21 @@ namespace Nop.Core
             }
             else
             {
-                if (_httpContext.Request.Url != null)
+                if (String.Equals(_httpContext.Request.Url.Host, "localhost", StringComparison.OrdinalIgnoreCase) || _httpContext.Request.Url.Host == "127.0.0.1")
                 {
+                    // Running from localhost
                     url = _httpContext.Request.Url.GetLeftPart(UriPartial.Path);
+                }
+                else
+                {
+                    // Build URL with port 80
+                    UriBuilder uriBuilder = new UriBuilder();
+                    uriBuilder.Host = _httpContext.Request.Url.Host;
+                    uriBuilder.Path = _httpContext.Request.Url.AbsolutePath;
+                    uriBuilder.Scheme = _httpContext.Request.Url.Scheme;
+                    uriBuilder.Port = 80;
+
+                    url = uriBuilder.Uri.GetLeftPart(UriPartial.Path);
                 }
             }
             url = url.ToLowerInvariant();
