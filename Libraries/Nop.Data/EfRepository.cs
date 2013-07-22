@@ -46,11 +46,17 @@ namespace Nop.Data
 
                 foreach (var validationErrors in dbEx.EntityValidationErrors)
                     foreach (var validationError in validationErrors.ValidationErrors)
-                        msg += string.Format("Property: {0} Error: {1}", validationError.PropertyName, validationError.ErrorMessage) + Environment.NewLine;
+                        msg +=
+                            string.Format("Property: {0} Error: {1}", validationError.PropertyName,
+                                validationError.ErrorMessage) + Environment.NewLine;
 
                 var fail = new Exception(msg, dbEx);
                 //Debug.WriteLine(fail.Message, fail);
                 throw fail;
+            }
+            catch (Exception e)
+            {
+                Console.Write(e.ToString());
             }
         }
 
