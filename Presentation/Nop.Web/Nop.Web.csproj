@@ -618,8 +618,6 @@
     <Content Include="Administration\Content\images\warnings-tick.png" />
     <Content Include="Administration\Content\images\warnings-warning.png" />
     <Content Include="Administration\Content\styles.css" />
-    <Content Include="Administration\Nop.Admin.csproj" />
-    <Content Include="Administration\Nop.Admin.csproj.user" />
     <Content Include="Administration\Scripts\admin.common.js" />
     <Content Include="Administration\Scripts\farbtastic.js" />
     <Content Include="Administration\Scripts\fileuploader.js" />
