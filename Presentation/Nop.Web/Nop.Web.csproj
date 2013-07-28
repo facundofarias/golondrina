@@ -618,6 +618,50 @@
     <Content Include="Administration\Content\images\warnings-tick.png" />
     <Content Include="Administration\Content\images\warnings-warning.png" />
     <Content Include="Administration\Content\styles.css" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Description.txt" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.AspNet.dll" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.AspNet.xml" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.Core.dll" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.Core.xml" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.OAuth.Consumer.dll" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.OAuth.Consumer.xml" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.OAuth.dll" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.OAuth.xml" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.OpenId.dll" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.OpenId.RelyingParty.dll" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.OpenId.RelyingParty.xml" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\DotNetOpenAuth.OpenId.xml" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Mono.Math.dll" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Mono.Math.xml" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Org.Mentalis.Security.Cryptography.dll" />
+    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Org.Mentalis.Security.Cryptography.xml" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\nivo-slider.css" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner1.jpg" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner2.jpg" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner3.jpg" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\arrows.png" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bar.css" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bullets.png" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\loading.gif" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\arrows.png" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\bullets.png" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\dark.css" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\loading.gif" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\arrows.png" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\bullets.png" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\default.css" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\loading.gif" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\arrows.png" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\bullets.png" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\light.css" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\loading.gif" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Description.txt" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll" />
+    <Content Include="Administration\Plugins\Widgets.NivoSlider\Scripts\jquery.nivo.slider.js" />
     <Content Include="Administration\Scripts\admin.common.js" />
     <Content Include="Administration\Scripts\farbtastic.js" />
     <Content Include="Administration\Scripts\fileuploader.js" />
@@ -2017,9 +2061,7 @@
     <Content Include="Views\Catalog\HomepageProducts.Mobile.cshtml" />
     <Content Include="Views\Shared\_Notifications.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Administration\Plugins\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\..\Libraries\Nop.Core\Nop.Core.csproj">
       <Project>{6BDA8332-939F-45B7-A25E-7A797260AE59}</Project>
