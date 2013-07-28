@@ -636,7 +636,6 @@
     <Content Include="Administration\Plugins\ExternalAuth.Facebook\Mono.Math.dll" />
     <Content Include="Administration\Plugins\ExternalAuth.Facebook\Mono.Math.xml" />
     <Content Include="Administration\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll" />
-    <Content Include="Administration\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb" />
     <Content Include="Administration\Plugins\ExternalAuth.Facebook\Org.Mentalis.Security.Cryptography.dll" />
     <Content Include="Administration\Plugins\ExternalAuth.Facebook\Org.Mentalis.Security.Cryptography.xml" />
     <Content Include="Administration\Plugins\Widgets.NivoSlider\Content\nivoslider\nivo-slider.css" />
