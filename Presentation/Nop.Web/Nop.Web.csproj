@@ -2059,6 +2059,10 @@
     <Content Include="Views\Customer\MyAccount.cshtml" />
     <Content Include="Views\Catalog\HomepageProducts.Mobile.cshtml" />
     <Content Include="Views\Shared\_Notifications.cshtml" />
+    <Content Include="Plugins\Widgets.NivoSlider\Views\WidgetsNivoSlider\Configure.cshtml" />
+    <Content Include="Plugins\Widgets.NivoSlider\Views\WidgetsNivoSlider\PublicInfo.cshtml" />
+    <Content Include="Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\Configure.cshtml" />
+    <Content Include="Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\PublicInfo.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
